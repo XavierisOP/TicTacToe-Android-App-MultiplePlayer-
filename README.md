@@ -1,2 +1,2 @@
-# TicTacToe-Android-App-MultiplePlayer-
-First Android Small APK of mine
+This is Tic Tac Toe Game which created in Android Studio Using Java
+First Android Small APK of mine...
